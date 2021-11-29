@@ -1,6 +1,7 @@
 # ADF-mask
 Flat-folding facepiece respirator
-This file shows a prototyped model of a three-panel flat-folding facepiece respirator.
+
+This [file](Antwerp%20Design%20Factory%20-%20three-panel%20respirator.pdf) shows a prototyped model of a three-panel flat-folding facepiece respirator.
 
  ![cover](mask.png)
  
